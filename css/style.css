@@ -1,0 +1,25 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.header_img{
+	width: 100% !important;
+}
+.form-section{
+	padding: 50px 0px;
+	background-color: #d5e2ea;
+}
+
+.form-control{
+	border-radius: 10px;
+	height: 60px;
+}
+input.q156 {
+   transform: scale(2);
+}
+.btn-block{
+	background-color: #062c62;
+	border-radius: 10px;
+	color: white;
+}
